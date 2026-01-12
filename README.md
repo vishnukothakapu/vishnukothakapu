@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Kothakapu Vishnu Kiran 👋</h1>
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/3dc69bdd-a027-41e9-8b4e-23972897aeaf" />
 
 <p align="center">
   <b>Full Stack Developer • App Developer • Web3 • Open Source Contributor</b>
