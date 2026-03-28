@@ -16,7 +16,7 @@
 I’m a **B.Tech + MBA (Dual Degree)** student at **IIITM Gwalior** with hands-on experience building  
 **scalable web, mobile, and Web3 applications**.
 
-I enjoy working across the stack — from crafting intuitive UIs to designing secure backends, integrating **ML systems**, and deploying **production-ready solutions** on cloud infrastructure.  
+I enjoy working across the stack from crafting intuitive UIs to designing secure backends, integrating **ML systems**, and deploying **production-ready solutions** on cloud infrastructure.  
 I actively contribute to **open source** and love turning ideas into real-world products.
 
 ---
