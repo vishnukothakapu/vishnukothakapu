@@ -91,10 +91,11 @@ I actively contribute to **open source** and love turning ideas into real-world 
 
 ### 🚀 Featured Projects
 
-**Eventify — Event Management Platform**  
-`Next.js` `MongoDB` `Razorpay`  
-- Full-stack event booking platform with secure payments and QR-based ticket validation.  
-- Improved checkout success rate by **40%** and reduced API latency by **30%**.
+**QueueForge - Distributed Job Queue System**  
+`Golang` `PostgreSQL` `Redis` `Prometheus`  
+- Built a distributed job processing system using Redis and worker pools to handle asynchronous tasks efficiently.  
+- Implemented retry mechanisms and fault-tolerant design, ensuring reliable execution under failure conditions.
+- Added Prometheus-based monitoring to track job metrics, system performance, and worker activity in real time.
 
 **FundChain — Decentralized Crowdfunding Platform**  
 `Solidity` `Ethereum` `React.js` `Thirdweb`  
