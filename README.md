@@ -109,14 +109,7 @@ I actively contribute to **open source** and love turning ideas into real-world 
 
 ---
 
-### 🏆 Achievements
 
-- 🏅 **Hacktoberfest 2025 Supercontributor Badge**
-- 🥇 Ranked among **top performers** in **SSOC’25**
-- 🏆 **Top 5** — WebKriti’24 Web Development Contest (AASF)
-- 🚀 Selected for **Flipkart Grid 6.0 — Software Development Track**
-
----
 
 ### 🎖️ Holopin Badges
 
