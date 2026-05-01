@@ -97,12 +97,13 @@ I actively contribute to **open source** and love turning ideas into real-world 
 - Implemented retry mechanisms and fault-tolerant design, ensuring reliable execution under failure conditions.
 - Added Prometheus-based monitoring to track job metrics, system performance, and worker activity in real time.
 
-**FundChain — Decentralized Crowdfunding Platform**  
-`Solidity` `Ethereum` `React.js` `Thirdweb`  
-- Web3 crowdfunding dApp supporting campaign creation, donations, and withdrawals.  
-- Implemented secure smart contracts with real-time UI updates using blockchain events.
+**ChitSetu - Decentralized Chit Fund Platform (Web3 Developer)**  
+`Solidity` `Ethers.js` `Hardhat` `go-ethereum` `OpenZeppelin` `Polygon Amoy` 
+- Designed and deployed smart contracts on Polygon Amoy using Hardhat + OpenZeppelin, covering member onboarding, contribution cycles, auction bidding, and payout distribution..  
+- Built a Go-based Web3 integration service (go-ethereum) that automates a mint → confirm → deposit pipeline, bridging Razorpay fiat payments with on-chain ERC-20 token provisioning asynchronously post-payment.
+- Implemented a cron-driven blockchain retry system with multi-state tracking (minting → pending → confirmed/failed) in MongoDB, ensuring eventual consistency between off-chain payments and on-chain records with zero silent failures
 
-**HabitFlow — Habit Tracker App**  
+**HabitFlow - Habit Tracker App**  
 `React Native` `Expo` `Supabase`  
 - Cross-platform mobile app improving habit consistency by **70%**.  
 - Optimized rendering and data fetching for **40% faster performance**.
