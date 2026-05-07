@@ -2,7 +2,7 @@
 <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/3dc69bdd-a027-41e9-8b4e-23972897aeaf" />
 
 <p align="center">
-  <b>Full Stack Developer • App Developer • Web3 • Open Source Contributor</b>
+  <b>Full Stack Engineer • Web3 Builder • Cloud Enthusiast • Open Source Contributor</b>
 </p>
 
 <p align="center">
@@ -13,8 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a **B.Tech + MBA (Dual Degree)** student at **IIITM Gwalior** with hands-on experience building  
-**scalable web, mobile, and Web3 applications**.
+I’m a **B.Tech + MBA (Dual Degree)** student at **IIITM Gwalior** passionate about building **scalable web, mobile, cloud and Web3 applications**.
 
 I enjoy working across the stack from crafting intuitive UIs to designing secure backends, integrating **ML systems**, and deploying **production-ready solutions** on cloud infrastructure.  
 I actively contribute to **open source** and love turning ideas into real-world products.
@@ -32,7 +31,6 @@ I actively contribute to **open source** and love turning ideas into real-world 
   <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 </p>
 
 #### 🌐 Web & App
@@ -142,9 +140,7 @@ I actively contribute to **open source** and love turning ideas into real-world 
   <img src="https://readme-summary-cards.vercel.app/api/cards/profile-details?username=vishnukothakapu&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishnukothakapu&theme=radical&no-frame=true" />
-</p>
+
 
 ---
 
@@ -153,3 +149,4 @@ I actively contribute to **open source** and love turning ideas into real-world 
 - 💼 LinkedIn: <a href="https://linkedin.com/in/kothakapuvishnukiran">kothakapuvishnukiran</a>  
 - 📧 Email: <a href="mailto:kothakapuvishnukiran@gmail.com">kothakapuvishnukiran@gmail.com</a>  
 - 💻 GitHub: <a href="https://github.com/vishnukothakapu">vishnukothakapu</a>
+
