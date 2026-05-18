@@ -89,6 +89,17 @@ I actively contribute to **open source** and love turning ideas into real-world 
 - Collaborated with ML engineers to optimize workflows, reducing API response times by **25%**.
 
 ---
+---
+
+### 🌍 Open Source Contributions
+
+| Repository | PR | Description | Status |
+|---|---|---|---|
+| [krkn-chaos/website](https://github.com/krkn-chaos/website) | [#328](https://github.com/krkn-chaos/website/pull/328) | feat(blog): add client-side category and type filter bar | ✅ Merged |
+| [hiero-ledger/heka-identity-platform](https://github.com/hiero-ledger/heka-identity-platform) | [#96](https://github.com/hiero-ledger/heka-identity-platform/pull/96) | fix(auth): ensure BearerGuard and UserAuthGuard return boolean | ✅ Merged |
+| [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) | [#5223](https://github.com/kubernetes-sigs/headlamp/pull/5223) | frontend: Add missing configuration resources to Resource Map | ✅ Merged |
+| [hiero-ledger/heka-identity-platform](https://github.com/hiero-ledger/heka-identity-platform) | [#51](https://github.com/hiero-ledger/heka-identity-platform/pull/51) | feat(health): expand monitoring in identity and auth services | ✅ Merged |
+| [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) | [#5166](https://github.com/kubernetes-sigs/headlamp/pull/5166) | frontend(KubeConfigLoader): Add Storybook stories for all states | ✅ Merged |
 
 ### 🚀 Featured Projects
 
