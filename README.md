@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kothakapu Vishnu Kiran 👋</h1>
+<h1 align="center">Hi, I'm Kothakapu Vishnu Kiran</h1>
 <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/3dc69bdd-a027-41e9-8b4e-23972897aeaf" />
 
 <p align="center">
@@ -41,7 +41,6 @@ I actively contribute to **open source** and love turning ideas into real-world 
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 #### 🔗 Web3
