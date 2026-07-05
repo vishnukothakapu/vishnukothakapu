@@ -102,11 +102,14 @@ I actively contribute to **open source** and love turning ideas into real-world 
 
 ### 🚀 Featured Projects
 
-**QueueForge - Distributed Job Queue System**  
-`Golang` `PostgreSQL` `Redis` `Prometheus`  
-- Built a distributed job processing system using Redis and worker pools to handle asynchronous tasks efficiently.  
-- Implemented retry mechanisms and fault-tolerant design, ensuring reliable execution under failure conditions.
-- Added Prometheus-based monitoring to track job metrics, system performance, and worker activity in real time.
+**Atlas- Self-Healing Distributed Cache**  
+`Golang` `Distributed Systems` `Consistent Hashing` `Concurrency`  
+- Architected a distributed in-memory key-value cache in Go implementing consistent hashing, request routing, partition
+replication, and concurrent node communication for horizontally scalable data distribution across multiple nodes.  
+- Built self-healing cluster capabilities including heartbeat-based failure detection, automatic failover, replica routing,
+and incremental operation-log recovery to maintain high availability and consistency during node failures.
+- Engineered durable storage using Write-Ahead Logging (WAL), periodic snapshots, and crash recovery mechanisms
+ensuring data persistence, fast startup reconstruction, and fault-tolerant operation across distributed nodes.
 
 **ChitSetu - Decentralized Chit Fund Platform (Web3 Developer)**  
 `Solidity` `Ethers.js` `Hardhat` `go-ethereum` `OpenZeppelin` `Polygon Amoy` 
@@ -114,11 +117,14 @@ I actively contribute to **open source** and love turning ideas into real-world 
 - Built a Go-based Web3 integration service (go-ethereum) that automates a mint → confirm → deposit pipeline, bridging Razorpay fiat payments with on-chain ERC-20 token provisioning asynchronously post-payment.
 - Implemented a cron-driven blockchain retry system with multi-state tracking (minting → pending → confirmed/failed) in MongoDB, ensuring eventual consistency between off-chain payments and on-chain records with zero silent failures
 
-**HabitFlow - Habit Tracker App**  
-`React Native` `Expo` `Supabase`  
-- Cross-platform mobile app improving habit consistency by **70%**.  
-- Optimized rendering and data fetching for **40% faster performance**.
-
+**QueueForge- Distributed Job Queue System**  
+`Golang` `PostgreSQL` `Redis` `Prometheus` `Docker`  
+- Built a distributed task processing system using Redis-backed worker pools supporting high-throughput asynchronous
+job execution with horizontal scalability, configurable concurrency, and priority-based task scheduling.
+- Engineered fault-tolerant retry mechanisms and worker-pool concurrency management ensuring reliable job execution,
+graceful recovery under partial system failures, and zero message loss guarantees.
+- Integrated Prometheus observability layer exposing 10+ real-time metrics including queue depth, job throughput,
+worker utilization, and failure rates enabling proactive production monitoring and alerting.
 ---
 
 
