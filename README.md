@@ -144,6 +144,11 @@ worker utilization, and failure rates enabling proactive production monitoring a
 <p align="center">&nbsp;<img src="https://github-readme-stats-test-mu.vercel.app/api?username=vishnukothakapu&theme=tokyonight&count_private=true&border_radius=6&show_icons=true&locale=en&cache_seconds=7200&hide_border=true" alt="vishnukothakapu" /></p>
 
 <p align="center">
+  <a href="https://github.com/tico88612/devstats-card">
+    <img src="https://devstats.me/?username=vishnukothakapu&theme=tokyonight" alt="DevStats Card" />
+  </a>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnukothakapu&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukothakapu&layout=compact&theme=radical" height="160"/>
 </p>
