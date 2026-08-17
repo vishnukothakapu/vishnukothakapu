@@ -2,7 +2,7 @@
 <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/3dc69bdd-a027-41e9-8b4e-23972897aeaf" />
 
 <p align="center">
-  <b>Full Stack Engineer • Web3 Builder • Cloud Enthusiast • Open Source Contributor</b>
+  <b>Full Stack Engineer • Cloud/DevOps • Open Source Contributor </b>
 </p>
 
 <p align="center">
@@ -11,75 +11,41 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-I’m a **B.Tech + MBA (Dual Degree)** student at **IIITM Gwalior** passionate about building **scalable web, mobile, cloud and Web3 applications**.
-
-I enjoy working across the stack from crafting intuitive UIs to designing secure backends, integrating **ML systems**, and deploying **production-ready solutions** on cloud infrastructure.  
-I actively contribute to **open source** and love turning ideas into real-world products.
+I'm a **B.Tech + MBA (Dual Degree)** student at **IIITM Gwalior**, passionate about building **scalable, distributed systems** across web, cloud, and Web3.
+I enjoy working across the stack: crafting intuitive UIs, designing secure **microservices**, and deploying **production-ready distributed systems** on cloud infrastructure.
+I actively contribute to **open source**, particularly within the **CNCF/Kubernetes ecosystem**, and love turning ideas into real-world, reliable software.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-#### 💻 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<h4>Languages & Frameworks</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=go,ts,js,cpp,react,nextjs,nodejs,express" />
 </p>
 
-#### 🌐 Web & App
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+<h4>Databases & Storage</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,firebase,supabase" />
 </p>
 
-#### 🔗 Web3
-<p align="center">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Thirdweb-000000?style=for-the-badge&logo=thirdweb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ethers.js-7A7A7A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Web3.js-0078D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black"/>
+<h4>Cloud & DevOps</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,prometheus" />
 </p>
 
-#### 🗄️ Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
-
-#### ☁️ Cloud & Tools
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<h4>Tools</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,git,bash,linux" />
 </p>
 
 ---
 
+### Experience
 
-### 💼 Experience
-
-**Full Stack Developer Intern — Neural Network Labs**  
+**Full Stack Developer Intern - Neural Network Labs**  
 *May 2025 – Aug 2025 (Remote)*
 
 - Built production-grade frontend and backend features for **AI-powered meme, infographic, and ad generation platforms**.
@@ -88,19 +54,17 @@ I actively contribute to **open source** and love turning ideas into real-world 
 - Collaborated with ML engineers to optimize workflows, reducing API response times by **25%**.
 
 ---
----
-### 🌍 Open Source Contributions
+### OSS Contributions
 
-| Repository | PR | Description | Status |
-|---|---|---|---|
-| [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) | [#5413](https://github.com/kubernetes-sigs/headlamp/pull/5413) | tests: Add Playwright a11y checks and stabilize pluginctl tests | ✅ Merged |
-| [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller) | [#224](https://github.com/kubernetes-sigs/node-readiness-controller/pull/224) | fix(controller): handle long rule names in bootstrap annotation keys | ✅ Merged |
-| [krkn-chaos/website](https://github.com/krkn-chaos/website) | [#328](https://github.com/krkn-chaos/website/pull/328) | feat(blog): add client-side category and type filter bar | ✅ Merged |
-| [hiero-ledger/heka-identity-platform](https://github.com/hiero-ledger/heka-identity-platform/pull/96) | [#96](https://github.com/hiero-ledger/heka-identity-platform/pull/96) | fix(auth): ensure BearerGuard and UserAuthGuard return boolean | ✅ Merged |
-| [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp/pull/5223) | [#5223](https://github.com/kubernetes-sigs/headlamp/pull/5223) | frontend: Add missing configuration resources to Resource Map | ✅ Merged |
-| [hiero-ledger/heka-identity-platform](https://github.com/hiero-ledger/heka-identity-platform/pull/51) | [#51](https://github.com/hiero-ledger/heka-identity-platform/pull/51) | feat(health): expand monitoring in identity and auth services | ✅ Merged |
-| [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp/pull/5166) | [#5166](https://github.com/kubernetes-sigs/headlamp/pull/5166) | frontend(KubeConfigLoader): Add Storybook stories for all states | ✅ Merged |
-### 🚀 Featured Projects
+| Organization | Pull Requests |
+|---|---|
+| Headlamp | [Pull Requests](https://github.com/kubernetes-sigs/headlamp/pulls/vishnukothakapu) |
+| Node Readiness Controller | [Pull Requests](https://github.com/kubernetes-sigs/node-readiness-controller/pulls/vishnukothakapu) |
+| Podman | [Pull Requests](https://github.com/podman-container-tools/podman/pulls/vishnukothakapu) |
+| Prometheus | [Pull Requests](https://github.com/prometheus/prometheus/pulls?q=is%3Apr+author%3Avishnukothakapu+is%3Aclosed) |
+
+---
+### Featured Projects
 
 **Atlas- Self-Healing Distributed Cache**  
 `Golang` `Distributed Systems` `Consistent Hashing` `Concurrency`  
@@ -110,6 +74,12 @@ replication, and concurrent node communication for horizontally scalable data di
 and incremental operation-log recovery to maintain high availability and consistency during node failures.
 - Engineered durable storage using Write-Ahead Logging (WAL), periodic snapshots, and crash recovery mechanisms
 ensuring data persistence, fast startup reconstruction, and fault-tolerant operation across distributed nodes.
+
+**LinkID - Persistent Professional Identity Platform (Maintainer)**  
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Open Source` `100+ Contributors` `GSSoC/NSoC`  
+- Architected and built a persistent identity redirect platform from scratch using Next.js, TypeScript, and PostgreSQL (via Prisma ORM), where a single stable URL (e.g., `linkid.qzz.io/username/linkedin`) resolves to a user's current profile link, decoupling the public-facing URL from the underlying destination, so users can update any linked profile without breaking shared links.
+- Grew and maintain the project as founder, scaling it to **100+ contributors** through GSSoC (GirlScript Summer of Code) and NSoC, establishing contributor workflows, PR review processes, and project governance for a fully open-source codebase.
+- Own end-to-end technical direction,schema design and redirect logic in Next.js/Prisma/PostgreSQL, while mentoring contributors and reviewing community pull requests.
 
 **ChitSetu - Decentralized Chit Fund Platform (Web3 Developer)**  
 `Solidity` `Ethers.js` `Hardhat` `go-ethereum` `OpenZeppelin` `Polygon Amoy` 
@@ -129,7 +99,7 @@ worker utilization, and failure rates enabling proactive production monitoring a
 
 
 
-### 🎖️ Holopin Badges
+### Holopin Badges
 
 <p align="center">
   <a href="https://holopin.io/@vishnukothakapu">
