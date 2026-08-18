@@ -66,7 +66,7 @@ I actively contribute to **open source**, particularly within the **CNCF/Kuberne
 ---
 ### Featured Projects
 
-**Atlas- Self-Healing Distributed Cache**  
+**Atlas - Self-Healing Distributed Cache**  
 `Golang` `Distributed Systems` `Consistent Hashing` `Concurrency`  
 - Architected a distributed in-memory key-value cache in Go implementing consistent hashing, request routing, partition
 replication, and concurrent node communication for horizontally scalable data distribution across multiple nodes.  
@@ -87,7 +87,7 @@ ensuring data persistence, fast startup reconstruction, and fault-tolerant opera
 - Built a Go-based Web3 integration service (go-ethereum) that automates a mint → confirm → deposit pipeline, bridging Razorpay fiat payments with on-chain ERC-20 token provisioning asynchronously post-payment.
 - Implemented a cron-driven blockchain retry system with multi-state tracking (minting → pending → confirmed/failed) in MongoDB, ensuring eventual consistency between off-chain payments and on-chain records with zero silent failures
 
-**QueueForge- Distributed Job Queue System**  
+**QueueForge - Distributed Job Queue System**  
 `Golang` `PostgreSQL` `Redis` `Prometheus` `Docker`  
 - Built a distributed task processing system using Redis-backed worker pools supporting high-throughput asynchronous
 job execution with horizontal scalability, configurable concurrency, and priority-based task scheduling.
