@@ -75,7 +75,7 @@ and incremental operation-log recovery to maintain high availability and consist
 - Engineered durable storage using Write-Ahead Logging (WAL), periodic snapshots, and crash recovery mechanisms
 ensuring data persistence, fast startup reconstruction, and fault-tolerant operation across distributed nodes.
 
-**LinkID - Persistent Professional Identity Platform (Maintainer)**  
+**LinkID - Professional Identity Platform (Maintainer)**  
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Open Source` `100+ Contributors` `GSSoC/NSoC`  
 - Architected and built a persistent identity redirect platform from scratch using Next.js, TypeScript, and PostgreSQL (via Prisma ORM), where a single stable URL (e.g., `linkid.qzz.io/username/linkedin`) resolves to a user's current profile link, decoupling the public-facing URL from the underlying destination, so users can update any linked profile without breaking shared links.
 - Grew and maintain the project as founder, scaling it to **100+ contributors** through GSSoC (GirlScript Summer of Code) and NSoC, establishing contributor workflows, PR review processes, and project governance for a fully open-source codebase.
