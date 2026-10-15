@@ -45,6 +45,13 @@ I actively contribute to **open source**, particularly within the **CNCF/Kuberne
 
 ### Experience
 
+**LFX Mentee - CNCF Kubernetes**  
+*September 2026 – Present (Remote)*
+
+- Selected as an LFX Mentee in the CNCF/Kubernetes ecosystem, contributing to the Node Readiness Controller project.
+- Building a **Headlamp plugin for Node Readiness Controller (NRC)** to visualize cluster-level `NodeReadinessRule` resources and node readiness evaluation status through an intuitive Kubernetes dashboard.
+- Developing Kubernetes custom resource integrations and resource views to improve cluster observability and help users inspect readiness rules, evaluation results, and node scheduling readiness.
+
 **Full Stack Developer Intern - Neural Network Labs**  
 *May 2025 – Aug 2025 (Remote)*
 
@@ -59,6 +66,7 @@ I actively contribute to **open source**, particularly within the **CNCF/Kuberne
 | Organization | Pull Requests |
 |---|---|
 | Headlamp | [Pull Requests](https://github.com/kubernetes-sigs/headlamp/pulls/vishnukothakapu) |
+| Headlamp Plugins | [Pull Requests](https://github.com/headlamp-k8s/plugins/pulls/vishnukothakapu) |
 | Node Readiness Controller | [Pull Requests](https://github.com/kubernetes-sigs/node-readiness-controller/pulls/vishnukothakapu) |
 | Podman | [Pull Requests](https://github.com/podman-container-tools/podman/pulls/vishnukothakapu) |
 | Prometheus | [Pull Requests](https://github.com/prometheus/prometheus/pulls?q=is%3Apr+author%3Avishnukothakapu+is%3Aclosed) |
