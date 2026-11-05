@@ -10,6 +10,14 @@
 </p>
 
 ---
+I build distributed systems, cloud-native infrastructure, and developer tooling, with a strong focus on open-source engineering.
+
+▸ **Code Owner** · [Node Readiness Controller Plugin for Headlamp](https://github.com/headlamp-k8s/plugins/tree/main/node-readiness-controller)<br>
+▸ **LFX '26 Mentee** · [CNCF / Kubernetes](https://mentorship.linuxfoundation.org/programs/00419a67-c8d8-4c02-af7c-b3e72b3596bd) · Building the Headlamp plugin for Node Readiness Controller.<br>
+▸ **Maintainer** · [LinkID](https://github.com/vishnukothakapu/linkid) · Building an open-source persistent identity platform with 100+ contributors.<br>
+▸ **Ex-SDE Intern** · Neural Network Labs · Built AI content-generation workflows using React and Konva.js, integrating Node.js gateways with FastAPI inference services.
+
+---
 
 ### About Me
 
